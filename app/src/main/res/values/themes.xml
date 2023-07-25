@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Fruzzdigitl" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#009688</item>
+    </style>
+
+    <style name="Theme.Fruzzdigitl" parent="Base.Theme.Fruzzdigitl" />
+    <style name="nan">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
